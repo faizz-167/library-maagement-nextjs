@@ -44,6 +44,7 @@ const BookCover = ({
           alt="book cover"
           fill
           className="rounded-sm object-fill"
+          sizes="100%"
         />
       </div>
     </div>
